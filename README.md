@@ -1,2 +1,3 @@
 # sample-codes
-Hi i am learnig git
+Hi i am learnig git form youtube
+

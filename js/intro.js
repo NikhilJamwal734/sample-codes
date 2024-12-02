@@ -1,5 +1,9 @@
-let age = 20;
-age = 18;
+const details ={
+    name : "nikhil jamwal",
+    age : 26,
+    gender :"male" ,
 
+}
+console.log(details)
 
-console.log(age)
+typeof details

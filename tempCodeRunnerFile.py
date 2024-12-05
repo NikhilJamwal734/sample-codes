@@ -1,4 +1,3 @@
-print("enter a number")
-# num=int(input())
-# sum=num*((1+num)/2)
-# print(sum)
+end(1024)
+
+# print(l)

@@ -66,8 +66,29 @@
 # for i in range(20):
 #     # if (i%2==0):
 #     if (i%2 !=0):
-#         print(i)
+        # print(i, end =' ')
 
 # for i in range(4,41,4):
-for i in range(9,-1,-1):
-    print(i)
+# for i in range(9,-1,-1):
+#     print(i)
+
+#                               for loop
+
+# country ="india"
+# for letter in country:
+#     print(letter)
+
+# print(country[0])
+# print(country[1])
+# print(country[2])
+# print(country[3])
+# print(country[4])
+
+
+#                               formatting printing
+
+d=10
+m=5
+y=2024
+print("Today's data is",end = ' ')
+print(d,m,y, sep= '/')

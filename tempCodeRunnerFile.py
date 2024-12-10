@@ -1,3 +1,13 @@
-end(1024)
+def upper(s):
+    upper=0
+    for c in s:
+        if(c.isupper()):
+            upper += 1
+    return(upper)
 
-# print(l)
+
+
+
+sentence=input("enter the sentence")
+uL=upper(sentence)
+print(uL)

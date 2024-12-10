@@ -11,12 +11,12 @@
 
 
 
-# for i in range(10): #from 0 to 10
-#     print("hello")
+for i in range(10): #from 0 to 10
+    print("hello")
 
-# for i in range(10):
-#     print(i,"hello")
-#     print("********")
+for i in range(10):
+    print(i,"hello")
+    print("********")
 
 
 
@@ -87,8 +87,38 @@
 
 #                               formatting printing
 
-d=10
-m=5
-y=2024
-print("Today's data is",end = ' ')
-print(d,m,y, sep= '/')
+# d=10
+# m=5
+# y=2024
+# print("Today's data is",end = ' ')
+# print(d,m,y, sep= '/') 
+
+
+#                            min of list
+
+# l=[23,54,6,4,78,987,62,58,1,2]
+# x=[]
+# while(len(l)>0):
+#         min=l[0]
+#         for i in range(len(l)):
+#                 if l[i]<min:
+#                         min=l[i]
+#         x.append(min)
+#         l.remove(min)
+# print(l)
+# print(x)
+
+
+l= [34,54,45,65,56,76,67,77,98,89]
+x=[]
+while(len(l)>0):
+        min=l[0]
+        for i in range(len(l)):
+         if l[i]<min:
+                min=l[i]
+
+        l.remove(min)
+        x.append(min)
+
+print(l)
+print(x)

@@ -1,0 +1,7 @@
+It allows a class (called the derived class) to inherit attributes and functions from another class(called the base class).
+
+This promotes code reusability and helps to establish relation between classes.
+
+Through inheritance we achieve function overriding as well.
+
+SINGLE INHERITANCE : in which a derived class is inherited from the only one base class.

@@ -1,0 +1,1 @@
+class C is derived from both class A and class base

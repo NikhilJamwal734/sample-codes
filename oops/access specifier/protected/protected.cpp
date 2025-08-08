@@ -1,0 +1,1 @@
+// The member variables and member functions created under protected can only be accessed from within the class and its derived classes.

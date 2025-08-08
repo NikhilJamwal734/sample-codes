@@ -1,0 +1,12 @@
+casting is performed when a value of one type is used in place of some other type
+
+
+converting an expression of a given type into another type is known as TYPE-casting
+        casting can be IMPLICIT or EXPLICIT
+
+        CASTING RULES
+                
+                build in type
+                unrelated types
+                inheritance hierarchy (static)
+                inheritace hierarchy (dynamic)

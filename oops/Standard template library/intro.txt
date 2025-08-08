@@ -1,0 +1,39 @@
+the STL is a collection of c++ template classes and functions.
+STL provides data structure (containers) and algorithms that facilitate efficient and reusabale code.
+It is built on three main components:
+    containers
+    iterators
+    algorithms
+
+Advantages of using STL
+    1 code reusability
+    2 Performance
+    3 Consistency
+    4 Extensibility
+    5 reduce development time
+
+Components of STL
+
+    containers: store and manage collection of data efficiently.
+        eg: vector, list set map.
+
+    Iterators: provide an abstract interface for traversing elemetns in containers.
+        eg: begin(), end(), rbegin(), rend().
+
+
+    algorithms: Perform operatins on containers such as searching sorting and modifying data.
+        eg: sort(), find(), transform(),
+
+CONTAINER OVERVIEW
+
+ 1 containers are object that store collection of data.
+ 2 STL containers provide a range of data structure from dynamic arrays to hash tables.
+ 3 Each container type is designed for speciifc use cases, balancing trade offs between:
+        Memory usage
+        Insertion , deletion and traversal speed
+4 containers are the foundation of STL enabaling efficient data management and manipulation
+5 stl provide generic containers that can work with any data type.
+6 containers are broadly categorized based on their structure and functionality
+        sequence containers
+        associative containers
+        unordered containers

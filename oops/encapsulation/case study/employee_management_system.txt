@@ -1,0 +1,7 @@
+we will create an Employee class where:
+
+    Private members store sensitive data like the Employee ID and salary, which should not be directly accessible.
+
+    Public members provide methods to access and modify employee details safely.
+
+    Protected members will be used in aderived class to extend dunctionality ,such as adding benefits for managrers.

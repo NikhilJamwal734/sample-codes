@@ -1,0 +1,3 @@
+
+
+suppose there is a base class A and class B is sub class which inherits class A, another class C which inherits class B

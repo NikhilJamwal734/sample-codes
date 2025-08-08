@@ -1,0 +1,17 @@
+virtual function is the member function defined in the base class and can further be defined in the child class as well.
+
+While calling the derived class, the overridden function will be called.
+
+virtual functions must be member of some class.
+
+virtual functions cannot be static members.
+
+virtual function are accessed through object pointers.
+
+virtual functionmust be defined in the base class, even though it is not used.
+
+The prototype of a virtual function of the base class and all the derived classes must be identical.
+
+If the two functions with the same name but different prototype, c++ will consider them as the overloaded functions.
+
+We cannot have a virtual constructor.

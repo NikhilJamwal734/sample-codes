@@ -1,0 +1,5 @@
+If a function is defined as a friend functiion in c++, then the protrcted and private data of a class can be accessed using the function.
+
+By using the keyword friend, compiler knows the given funtion is a friend function.
+
+For accessing the data, the declaration of a freind function should be done inside the body of a class starting with the keyword friend.

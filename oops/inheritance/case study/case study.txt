@@ -1,0 +1,10 @@
+In a university various members belong to the institution such as stuudents and teacher. 
+The university keeps track of basic information like name, age and ID for every member.
+For students, additional information such as separtment and GPA is maintained, 
+while for teachers, the department and subject they teach are tracked.
+
+to maintain this, we can implement a multilevel inheritance system using c++.
+
+    The base class, PERSON will store the basic information common to both students and teacher. 
+    The STUDENT class will inherit from PERSON and add specific student related information.
+     The GRADUATESTUDENT class will inherit from STUDENT and handle additional details related to graduate-level students.

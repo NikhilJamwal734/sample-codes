@@ -1,0 +1,17 @@
+=> SPECIFICATION : state what is the input data and what output is required.
+
+=> CONSTRUCT TEST CASES.
+
+=> Think how you would solve the problem using pencil and paper.
+        understand the structure of the manual solution process
+        is something repeated ? how many times ?
+
+=> Write the program.
+        manual solutiion process structure should be reflected in the program
+        need to decide what variable to use
+
+=>  Run the test cases.
+
+=>  Debug : what to do if the program does not work.
+
+

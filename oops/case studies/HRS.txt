@@ -1,0 +1,35 @@
+OBJECTIVE : simulate a hotel resesrvatio system using oop.
+
+KEY FEATURES: room booking and cancellation.
+              Different room types(standard, Delux,suite)
+              Customer information management
+              Generating bills based on stay duration.
+
+USE CASES:
+            Managing hotel reservation for a small to medium hotel.
+            efficiently tracking suctomer and room availability.
+
+
+HIGH LEVEL DISIGN
+
+Module:
+        Room: handle room details and availability
+        customer: manages customer information
+        reservation: links customer with rooms.
+        billing: calculates total changes based on stay duration.
+
+Key OOP concepts:
+                classes and inheritance for modularity.
+                polymorphism for room specific bbehaviors.
+                encapsulation for secure data handling.
+
+Classes:
+        Room: base class for room properties.
+        customer: stores customer information
+        Reservation: links customer and rooms
+        Billing: calculates charges for the reservation.
+
+Overview:
+        Room-> derived classes: standardroom, deluxroom, suiteroom.
+        reservation-> links room and customer.
+        billing-> handles payment computation.

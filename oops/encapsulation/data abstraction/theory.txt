@@ -1,0 +1,7 @@
+Data abstraction focuses on providing only essential ingormatiion to the outside world and hiding the internal implementation details.
+
+Data abstraction allows the user to work with the functionalities of a system without needing to understsand the complexity behind how those functionalities are implemented.
+
+In C++ , data abstraction is achieved using: classes to define the structure and behavior.
+
+Access specifiers to control access to data members and methods.

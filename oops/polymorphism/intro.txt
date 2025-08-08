@@ -1,0 +1,13 @@
+
+    poly means 'many' and morph means 'forms'
+    Polymorphism refers to a single entity taking on multiple forms.
+
+    two types of polymorphism in c++
+
+        static/compile time Polymorphism => this type of polymorphism inc++ can be achieved by funtion overloading
+                                         => overloading by changing number of arguments or type of arguments is called compile time polymorphism.
+
+                
+        Dynamic/run time pollymorphism => this type of polymorphism can be achieved using function overriding.
+                                       => in this approach a call to the overridden functin is resolved during run-time.
+                                       => Method overriding is done when a derived class has a function with same name, parameter and return type as the parent or the superclass, then that functiion overrides the function in the base class.

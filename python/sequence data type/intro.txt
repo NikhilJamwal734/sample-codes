@@ -1,0 +1,15 @@
+
+    SEQUENCE DATA TYPE
+
+        => sequences allows you to store multiple values in an organized and efficient fashion.
+        => There are several types: strings, unnicode strings, lists, tuples, array and range objects
+
+            -> strings - sequence of characters - in " or '
+            -> Tuples - sequence of compound data - in ()
+            -> Lists - sequence of multi-data type objects , can contain duplicate values. muteable - in []
+            -> Arrays- sequence of constrained list of objects(all objects are of same data type) using array module
+            -> Dictionary - sequence of key-value pairs - in {}
+            -> sets - sequence of unordered collection of uniqye data
+            -> Range - used for looping using buuilt in range -()
+
+        => List and Tuples are simillar to each other only difference is list is mutable(elements can be added, removed, changed after the list is created) and tuple in immutable(elements cannot be added, removed or changed)

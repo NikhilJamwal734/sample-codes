@@ -1,0 +1,4 @@
+
+
+    class A is a base class, class B and class C are derived class which inherit class A 
+    class D is a derived class inherits both class B and class c

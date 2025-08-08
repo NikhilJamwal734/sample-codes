@@ -1,0 +1,21 @@
+ # %%
+print("my name is nikhil")
+
+
+# %%
+
+a=12
+b=22
+print(a+b)
+
+
+# %%
+
+
+
+
+#%%
+
+
+# %%
+

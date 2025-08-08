@@ -1,0 +1,3 @@
+when a class is derived from two defferent base classes
+
+class A and B are base classes, C is a derived class(inherit the characteristics of both the classes A and B )

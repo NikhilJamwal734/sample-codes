@@ -1,0 +1,8 @@
+Encapsulation intergrates data and the functions that manipulate it, while protecting both from external interference and misuse.
+
+c++ supports the properties of encapsulation and data hiding through the creation of user-defined types, called classes.
+
+Encapsulation involves bundling data together with the function that operate on it, while data abstraction refers to exposing only the necessary interface,
+keeping the implementation details hidden from the user.
+
+**** In this we can access private data members from outside the class.

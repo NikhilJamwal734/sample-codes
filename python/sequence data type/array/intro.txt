@@ -1,0 +1,12 @@
+
+
+            code        python type         Min bytes
+            
+            'b'             int                 1
+            'B'             int                 1
+            'u'             unicode             2
+            'h'             int                 2
+            'i','I'         int                 2
+            'l','L'         int                 4
+            'f'             float               4
+            'd'             float               8
